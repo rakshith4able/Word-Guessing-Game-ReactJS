@@ -132,3 +132,18 @@ margin: 0 auto;
     padding: 7px 10px;
   }
 }
+
+@media(max-width: 380px) {
+  .Game h1{
+    font-size: 0.8rem;
+  }
+
+  .Game-word
+  {
+    font-size:0.8rem ;
+  }
+
+  .Game button{
+    padding: 7px 10px;
+  }
+}
