@@ -118,7 +118,7 @@ margin: 0 auto;
 }
 
 
-@media(max-width: 400px) {
+@media (max-width: 400px) {
   .Game h1{
     font-size: 1rem;
   }
