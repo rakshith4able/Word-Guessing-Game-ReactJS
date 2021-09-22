@@ -107,10 +107,25 @@ margin: 0 auto;
 }
 
 
-/* For extremely small screen devices (595px and below) */
-@media only screen and (max-width: 768px) {
+@media (max-width: 595px) {
   .Game h1{
     font-size: 2rem;
+  }
+
+  .Game button{
+    padding: 7px 10px;
+  }
+}
+
+
+@media(max-width: 400px) {
+  .Game h1{
+    font-size: 1.5rem;
+  }
+
+  .Game-word
+  {
+    font-size:1.5rem ;
   }
 
   .Game button{
