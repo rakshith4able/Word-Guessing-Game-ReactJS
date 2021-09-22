@@ -40,7 +40,7 @@ class Game extends Component {
 
   /** generateButtons: return array of letter buttons to render */
   generateButtons() {
-    return "ABCDEFGHIJKLMNOPQRWXYZ".split("").map(ltr => (
+    return "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map(ltr => (
       <button
         key={ltr}
         value={ltr.toLowerCase()}
