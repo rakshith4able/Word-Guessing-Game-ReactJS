@@ -120,12 +120,12 @@ margin: 0 auto;
 
 @media(max-width: 400px) {
   .Game h1{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 
   .Game-word
   {
-    font-size:1.5rem ;
+    font-size:1.2rem ;
   }
 
   .Game button{
