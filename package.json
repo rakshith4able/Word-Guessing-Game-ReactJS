@@ -1,6 +1,6 @@
 {
   "homepage": "https://rakshith4able.github.io/Word-Guessing-Game-ReactJS",
-  "name": "hangman",
+  "name": "Word-Guessing-Game-ReactJS",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
